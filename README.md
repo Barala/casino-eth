@@ -1,2 +1,2 @@
 # casino-eth
-ethereum bases casino
+ethereum based casino
